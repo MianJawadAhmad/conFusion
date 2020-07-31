@@ -54,7 +54,7 @@
     "rimraf": "^2.6.2",
     "time-grunt": "^1.4.0",
     "uglifyjs": "^2.4.11",
-    "usemin-cli": "^0.5.1"
+    //"usemin-cli": "^0.5.1"
   },
   "dependencies": {
     "bootstrap": "^4.0.0",
